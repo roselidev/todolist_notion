@@ -1,0 +1,5 @@
+NOTION_API_KEY='YOUR_API_KEY'
+NOTION_API_DATABASE='YOUR_DB_KEY'
+
+//파일명 : '.env'
+//filename should be '.env'
